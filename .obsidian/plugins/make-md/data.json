@@ -38,7 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Biography & Glorifications of Srila Gurudeva",
+    "//The Taptajivanam Project"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

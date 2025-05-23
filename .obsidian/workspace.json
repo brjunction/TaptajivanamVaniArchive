@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vaishnava Bhajans.md",
-                "mode": "preview",
+                "file": "The Taptajivanam Project/Introduction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vaishnava Bhajans"
+              "title": "Introduction"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "25187b4cf20b55ed",
+            "id": "f033967638551fbf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -194,8 +194,10 @@
   },
   "active": "fb14ec64ca3cdc10",
   "lastOpenFiles": [
-    "Tags",
+    "The Taptajivanam Project/The Taptajivanam Project.md",
+    "Appendices/Appendices.md",
     "Vaishnava Bhajans.md",
+    "Tags",
     "node_modules/mkdocs-material/README.md"
   ]
 }
